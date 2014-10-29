@@ -2,6 +2,7 @@
     "name": "lshin/sendgrid-newsletter",
     "description": "Laravel 4 Wrapper for the Sendgrid Newsletter API Client",
     "keywords": ["sendgrid","sendgrid newsletter","laravel", "laravel4"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Leo Shin",
