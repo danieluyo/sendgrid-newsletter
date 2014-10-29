@@ -1,0 +1,25 @@
+{
+    "name": "lshin/sendgrid-newsletter",
+    "description": "Laravel 4 Wrapper for the Sendgrid Newsletter API Client",
+    "keywords": ["sendgrid","sendgrid newsletter","laravel", "laravel4"],
+    "authors": [
+        {
+            "name": "Leo Shin",
+            "email": "leo@sh1n.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*",
+        "neoseeker/sendgridphp": "dev-master"
+    },
+    "require-dev": {
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Lshin\\SendgridNewsletter": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
