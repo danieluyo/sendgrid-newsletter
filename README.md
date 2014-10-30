@@ -12,6 +12,7 @@ To install the API add this to your composer.json:
 
 ```json
 "require": {
+        "neoseeker/sendgridphp": "dev-master",
         "lshin/sendgrid-newsletter": "0.*"
 }
 ```
